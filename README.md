@@ -18,6 +18,7 @@ git checkout dragon2 로 dragon2 브랜치로 이동한다.
  ![1](https://user-images.githubusercontent.com/53888108/128548179-ab58b795-3b45-48d8-aec1-38987a6edf91.JPG)
 
 .txt 파일을 만든다.
+
 ![2](https://user-images.githubusercontent.com/53888108/128548199-47f392b9-8aa3-48a5-be3f-fffd7b52a185.JPG)
 
 
@@ -38,6 +39,7 @@ origin으로 dragon2 브렌치의 내용을 push 한다.
  
 
 git log 를 쳐보면
+
 ![4](https://user-images.githubusercontent.com/53888108/128548242-405c1c11-f9ea-44f2-8d1f-0c564084fe86.JPG)
 
 
@@ -46,10 +48,12 @@ git log 를 쳐보면
  
 
 그리고 github 사이트를 들어가보면
+
 ![5](https://user-images.githubusercontent.com/53888108/128548272-b54a42ef-3a42-498d-b6dd-a854a56bf8ad.JPG)
 
 
 새로운 dragon2라는 놈이 생겨났다 풀리퀘할 권한을 줄거냐라고 뜬다.
+
 ![6](https://user-images.githubusercontent.com/53888108/128548288-e8af62ac-6f22-4491-a8c9-a669ad228d66.JPG)
 
 여기서 머지할지 안할지 정할수있다. 머지를 하고
@@ -63,6 +67,7 @@ git log 를 쳐보면
 1. 2폴더에서 main에 머지한 내용을 가져온다.
 
 1폴더는 프로젝트를 만든 주인 영역이라 git pull 만 하면 데이터가 가져와진다.
+
 ![7](https://user-images.githubusercontent.com/53888108/128548340-64673691-bedf-48cd-8dcc-df7a60de672f.JPG)
 ![8](https://user-images.githubusercontent.com/53888108/128548344-3085ba4c-edef-417a-8e14-e52fe5278e59.JPG)
 
